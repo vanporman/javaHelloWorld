@@ -28,7 +28,7 @@ public class Main {
 			//count3++;
 		//}
 		
-		prindiManguLaud(lauaAlgseis);
+		prindiManguLaud(lauaAlgseis);		//Näitab korra lauda koos asetatud laevadega
 		System.out.println();
 		// Näita mängijale lauda
 		prindiManguLaud(lauaSeis);
